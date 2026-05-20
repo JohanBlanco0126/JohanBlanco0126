@@ -1,3 +1,4 @@
+
 <h1 align="center">Hi there, I'm Johan Blanco! 👋</h1>
 
 <p align="center">
@@ -30,17 +31,11 @@ These are the core tools and workflows I am actively mastering and using in my d
 
 ---
 
-### 📊 My Coding Journey (GitHub Metrics)
+### GitHub Metrics
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=JohanYesidBlanco&show_icons=true&theme=tokyonight&count_private=true" alt="Johan's GitHub Stats" />
-</p>
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=JohanBlanco0126&hide_border=FALSO&short_numbers=FALSO)](https://git.io/streak-stats)
 
-<p align="center">
-  <a href="https://git.io/streak-stats">
-    <img src="https://github-readme-streak-stats.herokuapp.com?user=JohanYesidBlanco&theme=tokyonight&hide_border=false&short_numbers=false" alt="GitHub Streak" />
-  </a>
-</p>
+
 
 ---
 
