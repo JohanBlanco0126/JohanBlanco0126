@@ -31,6 +31,8 @@ These are the tools I am actively using and learning in my daily academic labs r
 
 ---
 
+---
+
 ### 📊 My Coding Journey (GitHub Stats)
 
 *These metrics update automatically as I push my academic labs and daily practice.*
@@ -38,6 +40,14 @@ These are the tools I am actively using and learning in my daily academic labs r
 <p align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=JohanYesidBlanco&show_icons=true&theme=tokyonight&count_private=true" alt="Johan's GitHub Stats" />
 </p>
+
+<p align="left">
+  <a href="https://git.io/streak-stats">
+    <img src="https://github-readme-streak-stats.herokuapp.com?user=JohanYesidBlanco&theme=tokyonight&hide_border=false" alt="GitHub Streak" />
+  </a>
+</p>
+
+---
 
 ---
 
