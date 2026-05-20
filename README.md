@@ -32,8 +32,8 @@ These are the core tools and workflows I am actively mastering and using in my d
 ---
 
 ### GitHub Metrics
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=JohanBlanco0126&theme=elegant&hide_border=FALSO&short_numbers=FALSO)](https://git.io/streak-stats)
 
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=JohanBlanco0126&theme=elegant&hide_border=FALSO&short_numbers=FALSO)](https://git.io/streak-stats)
 
 
 ---
